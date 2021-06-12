@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@100&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  overflow: hidden;
+  font-family: "Lato", sans-serif;
+}
+.first {
+  height: 100vh;
+  width: 100vw;
+  background-image: url(/Images/one-car-main.jpg);
+}
+/* .in-text {
+  position: absolute;
+  top: 50%;
+  right: 45vw;
+  width: 20vw;
+  background-image: linear-gradient(to left, rgb(255, 0, 179), purple);
+  text-align: center;
+  padding: 15px 0px 15px 0px;
+} */
+.in-text {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  font-size: 27px;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+}
+.in-text-child {
+  background-image: linear-gradient(to left, rgb(255, 0, 179), purple);
+  text-align: center;
+  font-size: 1.5rem;
+  font-size: 1.8rem;
+  padding: 10px 10px 10px 10px;
+}
+.two {
+  height: 100vh;
+  width: 100vw;
+  background-image: url(/Images/two-moon.jpg);
+}
+.three {
+  height: 100vh;
+  width: 100vw;
+  background-image: url(/Images/three-sqr.jpg);
+}
+.four {
+  height: 150vh;
+  width: 100vw;
+  background-image: url(/Images/four-man.jpg);
+}
+.bac-img {
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.text {
+  background-image: linear-gradient(to left, rgb(255, 0, 179), purple);
+  font-size: 1.1rem;
+  padding: 10px 5px 10px 5px;
+}
