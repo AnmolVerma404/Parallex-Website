@@ -1,0 +1,26 @@
+{
+  "name": "parallex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnmolVerma404/Parallex-Website.git"
+  },
+  "author": "anmol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnmolVerma404/Parallex-Website/issues"
+  },
+  "homepage": "https://github.com/AnmolVerma404/Parallex-Website#readme",
+  "devDependencies": {
+    "compress-images": "^1.9.9"
+  },
+  "dependencies": {
+    "gifsicle": "^5.2.0",
+    "pngquant-bin": "^6.0.0"
+  }
+}

@@ -11,17 +11,8 @@
 .first {
   height: 100vh;
   width: 100vw;
-  background-image: url(/Images/one-car-main.jpg);
+  background-image: url(/CompressedImg/one-car-main.jpg);
 }
-/* .in-text {
-  position: absolute;
-  top: 50%;
-  right: 45vw;
-  width: 20vw;
-  background-image: linear-gradient(to left, rgb(255, 0, 179), purple);
-  text-align: center;
-  padding: 15px 0px 15px 0px;
-} */
 .in-text {
   position: absolute;
   top: 50%;
@@ -41,17 +32,17 @@
 .two {
   height: 100vh;
   width: 100vw;
-  background-image: url(/Images/two-moon.jpg);
+  background-image: url(/CompressedImg/two-moon.jpg);
 }
 .three {
   height: 100vh;
   width: 100vw;
-  background-image: url(/Images/three-sqr.jpg);
+  background-image: url(/CompressedImg/three-sqr.jpgthree-sqr.jpg);
 }
 .four {
   height: 100vh;
   width: 100vw;
-  background-image: url(/Images/four-man.jpg);
+  background-image: url(/CompressedImg/four-man.jpg);
 }
 .bac-img {
   position: relative;
